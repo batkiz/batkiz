@@ -1,4 +1,4 @@
-### Hi there 👋
+## about batkiz
 
 <!--
 **batkiz/batkiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+polyglot, amateur full-stack bug maker, Google & StackOverflow powered wizard.
